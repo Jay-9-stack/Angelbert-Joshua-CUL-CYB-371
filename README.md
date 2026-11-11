@@ -22,5 +22,18 @@ Python
 ## Dataset Format
 CSV (Comma Separated Values)
 
-## Author
-Jay-9-stack
+
+## Author Information
+
+**Name:** Angelbert Joshua
+
+**Matriculation Number:** 24/14758
+
+**Course Code:** CUL-CYB 371
+
+**Assignment:** Assignment Two
+
+**Project Title:** CampusPulse - Student Dataset
+
+**Programming Language:** Python
+
