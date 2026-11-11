@@ -1,4 +1,13 @@
 
+# =====================================
+# Project: CampusPulse
+# Author: Angelbert Joshua
+# Matric Number: 24/14758
+# Course Code: CUL-CYB 371
+# Assignment: Two
+# =====================================
+
+
 import csv
 
 # Fictional student dataset
